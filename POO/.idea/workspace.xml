@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1342a995-a58a-4747-939c-90302df244ef" name="Default Changelist" comment="" />
+    <list default="true" id="e9f631d8-c573-4fe0-a325-eb8eba83b6cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Matrices/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1nIi3DNAzubxMRJJxYNpizDbpvm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1nJ328C7Kkox38A4FWRYCliNk3J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,16 +30,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/Matrices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/POO" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1342a995-a58a-4747-939c-90302df244ef" name="Default Changelist" comment="" />
-      <created>1611083804562</created>
+      <changelist id="e9f631d8-c573-4fe0-a325-eb8eba83b6cc" name="Default Changelist" comment="" />
+      <created>1611094157205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611083804562</updated>
+      <updated>1611094157205</updated>
     </task>
     <servers />
   </component>
