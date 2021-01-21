@@ -1,15 +1,13 @@
 package org.scesar.poointerfaces.repositorio;
 
-import org.scesar.poointerfaces.modelo.Cliente;
-
 import java.util.List;
 
-public interface CrudRepositorio {
+public interface CrudRepositorio<T> {
 
-    List<Cliente> listar();
+    List<T> listar();
 
-    Cliente porId(Integer id);
-    void crear(Cliente cliente);
-    void editar(Cliente cliente);
+    T porId(Integer id);
+    void crear(T t);
+    void editar(T t);
     void eliminar(Integer id);
 }

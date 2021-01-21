@@ -2,13 +2,14 @@ package org.scesar.poointerfaces;
 
 import org.scesar.poointerfaces.modelo.Cliente;
 import org.scesar.poointerfaces.repositorio.*;
+import org.scesar.poointerfaces.repositorio.lista.ClienteListRepositorio;
 
 import java.util.List;
 
 public class EjemploRepositorio {
     public static void main(String[] args) {
 
-        OrdenablePaginableCrudRepositorio repo = new ClienteListRepositorio();
+        OrdenablePaginableCrudRepositorio<Cliente> repo = new ClienteListRepositorio();
         repo.crear(new Cliente("Jano", "Pérez"));
         repo.crear(new Cliente("Bea", "González"));
         repo.crear(new Cliente("Luci", "Martinez"));
