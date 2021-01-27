@@ -4,7 +4,7 @@ INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (3, 'Linus'
 INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (4, 'Eliza', 'Gamma', 'elizastephenson@roughies.com', '2020-08-28');
 INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (5, 'Pearl', 'Stephenson', 'pearlalbert@roughies.com', '2017-02-18');
 INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (6, 'Sabrina', 'Rasmussen', 'nunezbarron@roughies.com', '2017-08-01');
-INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (7, 'Andres', 'Guzman', 'profesor@bolsadeideas.com', '2017-08-28');
-INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (8, 'John', 'Doe', 'john.doe@gmail.com', '2017-08-28');
-INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (9, 'Linus', 'Delaney', 'shawdelaney@roughies.com', '2016-04-29');
-INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (10, 'Eliza', 'Gamma', 'elizastephenson@roughies.com', '2020-08-28');
+INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (7, 'Andres', 'Guzman', 'profeor@bolsadeideas.com', '2017-08-28');
+INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (8, 'John', 'Doe', 'jon.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (9, 'Linus', 'Delaney', 'shadelaney@roughies.com', '2016-04-29');
+INSERT INTO clientes (id, nombre, apellido, email, create_at) VALUES (10, 'Eliza', 'Gamma', 'elizatephenson@roughies.com', '2020-08-28');
